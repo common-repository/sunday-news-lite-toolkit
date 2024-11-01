@@ -1,0 +1,565 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sunday News Lite Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Apr 11 2016 09:15:21 GMT+0700 (ICT)\n"
+"POT-Revision-Date: Mon Apr 11 2016 09:15:25 GMT+0700 (ICT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Sunday News Lite Toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A specific plugin use in Sunday News Lite Theme, included some custom "
+"widgets, shortcodes, layouts."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kopa Theme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kopatheme.com"
+msgstr ""
+
+#: ../sunday-news-lite-toolkit.php:98 ../sunday-news-lite-toolkit.php:111
+msgid "Icon"
+msgstr ""
+
+#: ../sunday-news-lite-toolkit.php:99 ../sunday-news-lite-toolkit.php:113
+msgid "Select icon"
+msgstr ""
+
+#: ../inc/ajax.php:8 ../inc/ajax.php:36
+msgid "Oops! errors occured."
+msgstr ""
+
+#: ../inc/ajax.php:39
+msgid "Success! Your email has been sent."
+msgstr ""
+
+#: ../inc/functions.php:19
+msgid "I wanted you to see this site"
+msgstr ""
+
+#: ../inc/functions.php:20
+msgid "Check out this site"
+msgstr ""
+
+#: ../inc/functions.php:23
+msgid "Share by Email"
+msgstr ""
+
+#: ../inc/functions.php:23
+msgid "Email"
+msgstr ""
+
+#: ../inc/functions.php:27
+msgid "Print"
+msgstr ""
+
+#: ../inc/functions.php:31
+msgid "Share"
+msgstr ""
+
+#: ../inc/functions.php:34
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/functions.php:35
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/functions.php:36
+msgid "Google +"
+msgstr ""
+
+#: ../inc/functions.php:37
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/functions.php:43
+msgid "Comment"
+msgstr ""
+
+#: ../inc/functions.php:46
+msgid "Follow us @"
+msgstr ""
+
+#: ../inc/metabox.php:7 ../inc/metabox.php:38
+msgid "Advance options"
+msgstr ""
+
+#: ../inc/metabox.php:14
+msgid "Is hide breaking news"
+msgstr ""
+
+#: ../inc/metabox.php:20
+msgid "Is hide breadcrumb"
+msgstr ""
+
+#: ../inc/metabox.php:26
+msgid "Is hide title"
+msgstr ""
+
+#: ../inc/metabox.php:45
+msgid "Title below thumbnail"
+msgstr ""
+
+#: ../inc/metabox.php:51
+msgid "Descriptipn below thumbnail"
+msgstr ""
+
+#: ../inc/shortcode-util.php:35
+msgid "Sunday News Elements"
+msgstr ""
+
+#: ../inc/mailchimp-api/inc/mailchimp.php:7
+msgid "Processing ..."
+msgstr ""
+
+#: ../inc/mailchimp-api/inc/mailchimp.php:15
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../inc/mailchimp-api/inc/mailchimp.php:19
+msgid "Email address is invalid."
+msgstr ""
+
+#: ../inc/mailchimp-api/inc/mailchimp.php:26
+msgid "Security check"
+msgstr ""
+
+#: ../inc/mailchimp-api/inc/mailchimp.php:32
+msgid "API Key or List ID is incorrect."
+msgstr ""
+
+#: ../inc/mailchimp-api/inc/mailchimp.php:47
+msgid "Success! Check your email to confirm sign up."
+msgstr ""
+
+#: ../inc/shortcodes/accordion.php:7
+msgid "Accordion 1"
+msgstr ""
+
+#: ../inc/shortcodes/accordion.php:11
+msgid "Accordion 2"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote.php:7
+msgid "Blockquote 1"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote.php:11
+msgid "Blockquote 2"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote.php:15
+msgid "Blockquote 3"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:7
+msgid "Button style 1"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:11
+msgid "Button style 2"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:15
+msgid "Button style 3"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:19
+msgid "Button style 4"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:23
+msgid "Medium button style 1"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:27
+msgid "Medium button style 2"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:31
+msgid "Medium button style 3"
+msgstr ""
+
+#: ../inc/shortcodes/dropcaps.php:7
+msgid "Dropcaps 1"
+msgstr ""
+
+#: ../inc/shortcodes/dropcaps.php:11
+msgid "Dropcaps 2"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:7
+msgid "Grid 100%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:11
+#, php-format
+msgid "Grid 50% x2"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:15
+#, php-format
+msgid "Grid 33% x3"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:19
+msgid "Grid 33% - 66%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:23
+msgid "Grid 25% - 50% - 25%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:27
+#, php-format
+msgid "Grid 25% x4"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:31
+msgid "Grid 25% - 75%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:35
+msgid "Grid 16.6% - 66.6% - 16.6%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:39
+msgid "Grid 16.6% - 16.6% - 16.6% - 50%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:43
+#, php-format
+msgid "Grid 16.6% x6"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:47
+msgid "Grid 66% - 33%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:51
+msgid "Grid 83.3% - 16.6%"
+msgstr ""
+
+#: ../inc/shortcodes/related.php:7
+msgid "Related"
+msgstr ""
+
+#: ../inc/shortcodes/tab.php:7
+msgid "Tab 1"
+msgstr ""
+
+#: ../inc/shortcodes/tab.php:11
+msgid "Tab 2"
+msgstr ""
+
+#: ../inc/shortcodes/tab.php:15
+msgid "Tab 3"
+msgstr ""
+
+#: ../inc/widgets/ads.php:15
+msgid "__Ads"
+msgstr ""
+
+#: ../inc/widgets/ads.php:16
+msgid "Show ads image."
+msgstr ""
+
+#: ../inc/widgets/ads.php:21 ../inc/widgets/contact-form.php:23 ..
+#: /inc/widgets/contact-info.php:22 ../inc/widgets/socials.php:21 ..
+#: /inc/widgets/subscrible.php:23 ../inc/widgets/tabs.php:32
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/ads.php:26 ../inc/widgets/contact-info.php:27
+msgid "Image:"
+msgstr ""
+
+#: ../inc/widgets/ads.php:32
+msgid "URL:"
+msgstr ""
+
+#: ../inc/widgets/ads.php:37
+msgid "Target:"
+msgstr ""
+
+#: ../inc/widgets/ads.php:39
+msgid "Open in a new tab."
+msgstr ""
+
+#: ../inc/widgets/ads.php:40
+msgid "Open in current tab."
+msgstr ""
+
+#: ../inc/widgets/carousel.php:15
+msgid "__Posts List Carousel"
+msgstr ""
+
+#: ../inc/widgets/carousel.php:16
+msgid "Show posts list carousel."
+msgstr ""
+
+#: ../inc/widgets/carousel.php:21 ../inc/widgets/one-col-small-thumb.php:21 ..
+#: /inc/widgets/three-cols.php:37 ../inc/widgets/two-cols-black-bg.php:21 ..
+#: /inc/widgets/two-cols-postformat.php:21
+msgid "Main excerpt length:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:16
+msgid "Show contact form."
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:18
+msgid "Contact Form"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:22
+msgid "Contact"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:28 ../inc/widgets/contact-info.php:33 ..
+#: /inc/widgets/subscrible.php:28
+msgid "Description:"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:51
+msgid "Name(required)"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:52
+msgid "Email(required)"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:53
+msgid "Website"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:54
+msgid "Your comment(required)"
+msgstr ""
+
+#: ../inc/widgets/contact-form.php:55
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: ../inc/widgets/contact-info.php:16
+msgid "__Contact Info"
+msgstr ""
+
+#: ../inc/widgets/contact-info.php:17
+msgid "Show contact info."
+msgstr ""
+
+#: ../inc/widgets/contact-info.php:38
+msgid "Address:"
+msgstr ""
+
+#: ../inc/widgets/contact-info.php:43
+msgid "Email:"
+msgstr ""
+
+#: ../inc/widgets/contact-info.php:48
+msgid "Phone:"
+msgstr ""
+
+#: ../inc/widgets/one-col-small-thumb.php:15
+msgid "__Posts List 1 Col - S Thumb"
+msgstr ""
+
+#: ../inc/widgets/one-col-small-thumb.php:16
+msgid "Show posts list 1 col, small thumbnail."
+msgstr ""
+
+#: ../inc/widgets/socials.php:15
+msgid "__Socials"
+msgstr ""
+
+#: ../inc/widgets/socials.php:16
+msgid "Show socials."
+msgstr ""
+
+#: ../inc/widgets/subscrible.php:15
+msgid "Displays subscribe form."
+msgstr ""
+
+#: ../inc/widgets/subscrible.php:17
+msgid "__Subscrible"
+msgstr ""
+
+#: ../inc/widgets/subscrible.php:32
+msgid "Enter your email"
+msgstr ""
+
+#: ../inc/widgets/subscrible.php:33
+msgid "Placeholder text:"
+msgstr ""
+
+#: ../inc/widgets/subscrible.php:38
+msgid "List ID:"
+msgstr ""
+
+#: ../inc/widgets/subscrible.php:44
+msgid "Your API Key:"
+msgstr ""
+
+#: ../inc/widgets/subscrible.php:79
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:14 ../inc/widgets/tabs.php:20
+msgid "-- none --"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:26
+msgid "__Posts List Tabs"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:27
+msgid "Show posts list tabs."
+msgstr ""
+
+#: ../inc/widgets/tabs.php:37
+msgid "Categories:"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:44
+msgid "Order:"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:46
+msgid "ASC"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:47
+msgid "DESC"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:53
+msgid "Orderby:"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:55
+msgid "Date"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:56
+msgid "Random"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:57
+msgid "Number of comments"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:63 ../inc/widgets/tabs.php:69
+msgid "Number of posts:"
+msgstr ""
+
+#: ../inc/widgets/three-cols.php:15
+msgid "__Posts List 3 Cols"
+msgstr ""
+
+#: ../inc/widgets/three-cols.php:16
+msgid "Show posts list 3 cols."
+msgstr ""
+
+#: ../inc/widgets/three-cols.php:21
+msgid "Get related by:"
+msgstr ""
+
+#: ../inc/widgets/three-cols.php:23
+msgid "Tags"
+msgstr ""
+
+#: ../inc/widgets/three-cols.php:24
+msgid "Category"
+msgstr ""
+
+#: ../inc/widgets/three-cols.php:31
+msgid "Number related post:"
+msgstr ""
+
+#: ../inc/widgets/three-cols.php:43
+msgid "Sub excerpt length:"
+msgstr ""
+
+#: ../inc/widgets/three-cols.php:87 ../inc/widgets/three-cols.php:114 ..
+#: /inc/widgets/three-cols.php:140
+msgid "Read more"
+msgstr ""
+
+#: ../inc/widgets/two-cols-black-bg.php:15
+msgid "__Posts List 2 Cols - Black Bg"
+msgstr ""
+
+#: ../inc/widgets/two-cols-black-bg.php:16
+msgid "Show posts list 2 cols, black background."
+msgstr ""
+
+#: ../inc/widgets/two-cols-black-bg.php:27
+msgid "View more text:"
+msgstr ""
+
+#: ../inc/widgets/two-cols-black-bg.php:33
+msgid "View more URL:"
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:15
+msgid "__Posts List 2 Cols - Postformat"
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:16
+msgid "Show posts list 2 cols with icon. Query post by postformat."
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:27
+msgid "Post format:"
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:29
+msgid "Quote"
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:30
+msgid "Image"
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:31
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:32
+msgid "Audio"
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:33
+msgid "Video"
+msgstr ""
+
+#: ../inc/widgets/two-cols-postformat.php:34
+msgid "Link"
+msgstr ""
